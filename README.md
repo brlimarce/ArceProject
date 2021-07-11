@@ -1,2 +1,1 @@
-# beep
-🚀 A mini rocket-shooting game on Java.
+![Image of Banner](readme/banner.png)
