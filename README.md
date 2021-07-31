@@ -13,10 +13,10 @@
 
 <!-- Start of How to Play -->
 ## **How to Play**
-- **Move the rocket!** Press any of the **arrow keys** to move *up, down, left, or right.*
-- **Shoot stars towards the UFOs!** Press the **space bar** to *shoot and hit the UFOs.*
-- **Gain powerups!** A nebula spawns every *10 seconds* and lasts for *5 seconds.* Collect them to **gain 50 strength!**
-- To win the game, **avoid dying** by dodging UFOs or hitting them through stars!
+1. **Move the rocket!** Press any of the **arrow keys** to move *up, down, left, or right.*
+2. **Shoot stars towards the UFOs!** Press the **space bar** to *shoot and hit the UFOs.*
+3. **Gain powerups!** A nebula spawns every *10 seconds* and lasts for *5 seconds.* Collect them to **gain 50 strength!**
+4. To win the game, **avoid dying** by dodging UFOs or hitting them through stars!
 <!-- End of How to Play -->
 
 <!-- Start of Installation -->
