@@ -3,8 +3,10 @@
 <!-- End of Banner -->
 
 <!-- Start of Heading -->
-<h1 align="center"><b>beep 🚀</b></h1>
-<p align="center"><b>A mini rocket-shooting game on Java.</b><br>This is a project for my CMSC 22 course (Object-oriented Programming).</p> <br>
+<div align="center">
+    <h1><b>beep 🚀</b></h1>
+    <p><b>A mini rocket-shooting game on Java.</b><br>This is a project for my CMSC 22 course (Object-oriented Programming).</p>
+</div> <br>
 
 ![Image of Gameplay](readme/gameplay.gif) <br>
 <!-- End of Header -->
