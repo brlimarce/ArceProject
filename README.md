@@ -27,7 +27,7 @@ To clone and run this project, you need to install [**Eclipse.**](https://www.ec
 # Clone the repo.
 $ git clone https://github.com/brlimarce/beep.git
 ```
-
+<br>
 After cloning, open Eclipse and do the following:
 1. Import project in Eclipse.
 2. Run **Main.java** in the **main** package.
