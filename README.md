@@ -1,15 +1,15 @@
-<!-- Banner -->
+<!-- Start of Banner -->
 ![Image of Banner](readme/banner.png)
 <!-- End of Banner -->
 
-<!-- Heading -->
+<!-- Start of Heading -->
 <h1 align="center"><b>beep 🚀</b></h1>
 <p align="center"><b>A mini rocket-shooting game on Java.</b><br>This is a project for my CMSC 22 course (Object-oriented Programming).</p> <br>
 
 ![Image of Gameplay](readme/gameplay.gif) <br>
 <!-- End of Header -->
 
-<!-- How to Play -->
+<!-- Start of How to Play -->
 ## **How to Play**
 - **Move the rocket!** Press any of the **arrow keys** to move *up, down, left, or right.*
 - **Shoot stars towards the UFOs!** Press the **space bar** to *shoot and hit the UFOs.*
@@ -17,7 +17,7 @@
 - To win the game, **avoid dying** by dodging UFOs or hitting them through stars!
 <!-- End of How to Play -->
 
-<!-- Installation -->
+<!-- Start of Installation -->
 ## **Installation**
 To clone and run this project, you need to install [**Eclipse.**](https://www.eclipse.org/downloads/)
 
