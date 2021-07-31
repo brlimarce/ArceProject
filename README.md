@@ -5,7 +5,7 @@
 <!-- Start of Heading -->
 <div align="center">
     <h1><b>beep 🚀</b></h1>
-    <p><b>A mini rocket-shooting game on Java.</b><br>This is a project for my CMSC 22 course (Object-oriented Programming).</p>
+    <p><b>beep is a mini rocket shooter game on Java.</b><br>This is a project for my CMSC 22 course (Object-oriented Programming).</p>
 </div> <br>
 
 ![Image of Gameplay](readme/gameplay.gif) <br>
