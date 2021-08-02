@@ -16,7 +16,7 @@
 1. **Move the rocket!** Press any of the **arrow keys** to move up, down, left, or right.
 2. **Shoot stars!** Blast the UFOs by pressing the **space bar** to hit and damage them.
 3. **Collect powerups!** A nebula **spawns every 10 seconds** and needs to be **collected after 5 seconds.** Collect a nebula to **gain 50 strength!**
-4. **Win the game!** Avoid getting no health for 1 minute by dodging UFOs or hitting them with stars.
+4. **Win the game!** Avoid being killed by UFOs for 1 minute by dodging them or shooting them with stars.
 <!-- End of How to Play -->
 
 <!-- Start of Installation -->
