@@ -21,7 +21,7 @@
 
 <!-- Start of Installation -->
 ## **Installation ⬇️**
-To run beep, you need to install [**Eclipse.**](https://www.eclipse.org/downloads/) Clone the project via this command:
+To run beep, you need to install [**Eclipse.**](https://www.eclipse.org/downloads/) Clone the project in your command line:
 
 ```bash
 # Clone the repo.
