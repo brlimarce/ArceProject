@@ -1,34 +1,20 @@
-<!-- Start of Banner -->
-![Image of Banner](readme/banner.png)
-<!-- End of Banner -->
+<!-- Banner -->
+![Banner](assets/banner.png)
 
-<!-- Start of Heading -->
+<!-- Header -->
 <div align="center">
-    <h1><b>beep 🚀</b></h1>
-    <p><b>A mini rocket shooter game on Java.</b><br>beep is a project for CMSC 22 <i>(Object-oriented Programming).</i></p>
-</div> <br>
+  <h1><b>🚀 beep</b></h1>
+  <p>A mini game on Java where you <b>shoot stars</b> at aliens and/or <b>collect nebulas</b> to survive!</p>
+</div>
+<br />
 
-![Image of Gameplay](readme/gameplay.gif) <br>
-<!-- End of Header -->
+<!-- App Preview -->
+## 🎮&ensp;Game Preview
+![App Preview](assets/app_preview.gif)
 
-<!-- Start of How to Play -->
-## **How to Play 🌠**
-1. **Move the rocket!** Press any of the **arrow keys** to move up, down, left, or right.
-2. **Shoot stars!** Blast the UFOs by pressing the **space bar** to hit and damage them.
-3. **Collect powerups!** A nebula **spawns every 10 seconds** and needs to be **collected after 5 seconds.** Collect a nebula to **gain 50 strength!**
-4. **Win the game!** Avoid being killed by UFOs for 1 minute by dodging them or shooting them with stars.
-<!-- End of How to Play -->
-
-<!-- Start of Installation -->
-## **Installation ⬇️**
-To run beep, you need to install [**Eclipse.**](https://www.eclipse.org/downloads/) Clone the project in your command line:
-
-```bash
-# Clone the repo.
-$ git clone https://github.com/brlimarce/beep.git
-```
-  \
-Then, open and run the project in Eclipse by doing the following:
-1. Import project in Eclipse.
-2. Run **Main.java** in the **main** package.
-<!-- End of Installation -->
+<!-- Features -->
+## 🌠&ensp;How to Play
+1. Press **any arrow key** to move your rocket.
+2. Blast the aliens' UFOs by aiming and **pressing the space bar!**
+3. A nebula spawns **every 10 seconds** and disappears **after 5 seconds.** Collect one to gain **50 strength!**
+4. Survive for **1 minute** by avoiding being killed by UFOs.
